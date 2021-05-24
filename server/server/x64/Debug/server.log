@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Study\4 semestr\ОС\server\server\MyForm.h(307,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  server.vcxproj -> D:\Study\4 semestr\ОС\server\x64\Debug\server.exe
